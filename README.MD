@@ -1,6 +1,7 @@
 # Trabalho de JavaScript - SENAI
 
 **Nome do aluno:** Yonder Mendoza
+
 **Nome da atividade:** Atividade Prática de JavaScript (JS) - Cálculos de Médias
 
 ## Descrição dos exercícios
